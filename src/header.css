@@ -1,0 +1,12 @@
+/* thickness of header is off get pointers on that */
+header {
+    background-color: #5c946e;
+    padding: 1rem; 
+}
+
+h1{
+    color: white;
+    font-family: "Raleway",sans-serif ;
+    cursor: pointer;
+    text-align: center;
+}
